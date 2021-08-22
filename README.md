@@ -39,6 +39,8 @@ Dataset url: https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-d
 Description of Use: This dataset helped us to understand the present vaccination rate in the New South Wales state of Australia. We have used this dataset to predict the vaccination rate in the coming month.
 Dataset url: https://covidlive.com.au/report/daily-vaccinations-people/aus
 
+# Youtube Video link: https://youtu.be/X_UO8YgQQJs
+
 # Contributions by team:
 
 •	Ankit: Full video making, mind map design.
