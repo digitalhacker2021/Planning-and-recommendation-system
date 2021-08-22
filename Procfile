@@ -1,0 +1,1 @@
+web: voila --port=$8888 --no-browser app.ipynb
